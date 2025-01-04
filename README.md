@@ -134,9 +134,9 @@ npm run dev
 
 ## 📚 API Documentation
 
-### Translation Endpoints
+<img width="1405" alt="Screenshot 2025-01-04 at 10 10 54 AM" src="https://github.com/user-attachments/assets/0c886a8e-a0ce-49cd-bdc9-8c45876478b0" />
 
-![Uploading Screenshot 2025-01-04 at 10.10.54 AM.png…]()
+
 
 
 ## 🔐 Security
