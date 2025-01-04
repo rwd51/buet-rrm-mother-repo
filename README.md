@@ -38,6 +38,10 @@ graph TD
     B --> I[Authentication]
 ```
 
+### Banglish to Bangla Inference Pipeline Overview
+<img width="604" alt="Screenshot 2025-01-04 at 9 20 12 AM" src="https://github.com/user-attachments/assets/ecb26e36-3a63-4529-9c6c-b815c9aaa00a" />
+
+
 ## 🚀 Features
 
 ### Core Functionality
