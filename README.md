@@ -135,31 +135,9 @@ npm run dev
 ## 📚 API Documentation
 
 ### Translation Endpoints
-```python
-POST /api/v1/translate
-    Request Body:
-        - text: str (Banglish text)
-        - mode: str (quick/accurate)
-    Response:
-        - translated_text: str
-        - confidence: float
 
-POST /api/v1/pdf/generate
-    Request Body:
-        - content: str
-        - title: str
-        - visibility: str (public/private)
-    Response:
-        - pdf_url: str
-        - caption: str
-```
+![Uploading Screenshot 2025-01-04 at 10.10.54 AM.png…]()
 
-### Authentication Endpoints
-```python
-POST /api/v1/auth/register
-POST /api/v1/auth/login
-GET /api/v1/auth/profile
-```
 
 ## 🔐 Security
 
